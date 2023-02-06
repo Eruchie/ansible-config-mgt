@@ -1,24 +1,2 @@
----
-- name: Create dir on web, nfs and db servers
-  hosts: webservers, nfs, db
-  remote_user: ec2-user
-  become: yes
-  become_user: root
-  tasks:
-    - name: Create a directory if it does not exist
-      ansible.builtin.file:
-        path: /etc/darey_prj11
-        state: directory
-        mode: '0755'
-
-- name: update LB server
-  hosts: lb
-  remote_user: ubuntu
-  become: yes
-  become_user: root
-  tasks:
-    - name: Create a directory if it does not exist
-      ansible.builtin.file:
-        path: /etc/darey_prj11
-        state: directory
-        mode: '0755'
+**PROJECT 11**
+___
