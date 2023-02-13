@@ -11,3 +11,4 @@
     - Fourth update on permissions Project 12.
     - Fifth update on permissions Project 12.
     - Sixth update
+    - Seventh update
