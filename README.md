@@ -9,8 +9,5 @@
     - Second update on permissions Project 12.
     - Third update on permissions Project 12.
     - Fourth update on permissions Project 12.
-    - Fifth update on permissions Project 12.
-    - Sixth update
-    - Seventh update
-    - Eight update
-    - Nineth update
+    - Fifth Update
+    - Sixth Update
