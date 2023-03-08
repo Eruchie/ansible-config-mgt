@@ -18,4 +18,5 @@
     - Evening Class
     - Morning Class
     - Class In the Morning
+    - The decider
     
